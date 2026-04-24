@@ -1,6 +1,6 @@
 # Octo Theme
 
-Thème VSCode épuré disponible en variante claire et sombre.
+Thèmes VSCode épuré disponible en variante claire et sombre.
 
 ![preview](/assets/preview.jpg)
 
