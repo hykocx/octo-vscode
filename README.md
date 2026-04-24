@@ -19,8 +19,8 @@ Coloration sémantique activée sur les deux variantes.
 
 Recherche **Octo Theme** dans l'onglet Extensions de ton éditeur, ou installe directement depuis :
 
-- **VS Code** : [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=hykocx.octo-themes)
-- **VSCodium / Open VSX** : [open-vsx.org](https://open-vsx.org/extension/hykocx/octo-themes)
+- **VS Code** : [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=hykocx.octo-vscode)
+- **VSCodium / Open VSX** : [open-vsx.org](https://open-vsx.org/extension/hykocx/octo-vscode)
 
 ### Via un fichier VSIX
 
