@@ -1,7 +1,7 @@
 {
-  "name": "octo-theme",
-  "displayName": "Octo Theme",
-  "description": "Thème VSCode épuré disponible en variante claire et sombre.",
+  "name": "octo-themes",
+  "displayName": "Octo Themes",
+  "description": "Thèmes VSCode épuré disponible en variante claire et sombre.",
   "version": "1.0.0",
   "publisher": "hykocx",
   "author": "Hyko",
