@@ -15,9 +15,12 @@ Coloration sémantique activée sur les deux variantes.
 
 ## Installation
 
-### Via le marketplace
+### Via le marketplace (recommandé)
 
-Recherche **Octo Theme** dans l'onglet Extensions de ton éditeur.
+Recherche **Octo Theme** dans l'onglet Extensions de ton éditeur, ou installe directement depuis :
+
+- **VS Code** : [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=hykocx.octo-themes)
+- **VSCodium / Open VSX** : [open-vsx.org](https://open-vsx.org/extension/hykocx/octo-themes)
 
 ### Via un fichier VSIX
 
