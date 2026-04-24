@@ -83,13 +83,13 @@
     "editorGutter.deletedBackground": "#d73a49",
 
     "editorOverviewRuler.border": "#ffffff",
-    "editorOverviewRuler.findMatchForeground": "#ffdf5d",
+    "editorOverviewRuler.findMatchForeground": "#ffdf5d99",
     "editorOverviewRuler.addedForeground": "#28a745",
     "editorOverviewRuler.modifiedForeground": "#2188ff",
     "editorOverviewRuler.deletedForeground": "#d73a49",
     "editorOverviewRuler.errorForeground": "#cb2431",
     "editorOverviewRuler.warningForeground": "#9a6700",
-    "editorOverviewRuler.selectionHighlightForeground": "#34d058",
+    "editorOverviewRuler.selectionHighlightForeground": "#34d05899",
 
     "editorError.foreground": "#cb2431",
     "editorWarning.foreground": "#9a6700",
@@ -312,7 +312,7 @@
     "minimap.selectionHighlight": "#0366d625",
     "minimap.errorHighlight": "#d73a49",
     "minimap.warningHighlight": "#9a6700",
-    "minimap.findMatchHighlight": "#ffdf5d",
+    "minimap.findMatchHighlight": "#ffdf5d99",
     "minimapGutter.addedBackground": "#28a745",
     "minimapGutter.modifiedBackground": "#2188ff",
     "minimapGutter.deletedBackground": "#d73a49",
@@ -332,8 +332,6 @@
 
     "settings.headerForeground": "#2f363d",
     "settings.modifiedItemIndicator": "#2188ff",
-    "welcomePage.buttonBackground": "#f2f4f5",
-    "welcomePage.buttonHoverBackground": "#e1e4e8",
 
     "debugToolBar.background": "#ffffff"
   },
@@ -467,7 +465,7 @@
         "meta.diff.header.from-file",
         "punctuation.definition.deleted"
       ],
-      "settings": { "background": "#ffeef0", "foreground": "#b31d28" }
+      "settings": { "foreground": "#b31d28" }
     },
     {
       "scope": [
@@ -475,11 +473,11 @@
         "meta.diff.header.to-file",
         "punctuation.definition.inserted"
       ],
-      "settings": { "background": "#f0fff4", "foreground": "#22863a" }
+      "settings": { "foreground": "#22863a" }
     },
     {
       "scope": ["markup.changed", "punctuation.definition.changed"],
-      "settings": { "background": "#ffebda", "foreground": "#e36209" }
+      "settings": { "foreground": "#e36209" }
     },
     {
       "scope": "meta.diff.range",

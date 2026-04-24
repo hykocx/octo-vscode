@@ -83,13 +83,13 @@
     "editorGutter.deletedBackground": "#ff7b72",
 
     "editorOverviewRuler.border": "#000000",
-    "editorOverviewRuler.findMatchForeground": "#ffd33d",
+    "editorOverviewRuler.findMatchForeground": "#ffd33d99",
     "editorOverviewRuler.addedForeground": "#3fb950",
     "editorOverviewRuler.modifiedForeground": "#1f6feb",
     "editorOverviewRuler.deletedForeground": "#ff7b72",
     "editorOverviewRuler.errorForeground": "#f85149",
     "editorOverviewRuler.warningForeground": "#e3b341",
-    "editorOverviewRuler.selectionHighlightForeground": "#17e5e6",
+    "editorOverviewRuler.selectionHighlightForeground": "#17e5e699",
 
     "editorError.foreground": "#f85149",
     "editorWarning.foreground": "#e3b341",
@@ -312,7 +312,7 @@
     "minimap.selectionHighlight": "#3392ff44",
     "minimap.errorHighlight": "#f85149",
     "minimap.warningHighlight": "#e3b341",
-    "minimap.findMatchHighlight": "#ffd33d",
+    "minimap.findMatchHighlight": "#ffd33d99",
     "minimapGutter.addedBackground": "#3fb950",
     "minimapGutter.modifiedBackground": "#1f6feb",
     "minimapGutter.deletedBackground": "#ff7b72",
@@ -332,8 +332,6 @@
 
     "settings.headerForeground": "#e6edf3",
     "settings.modifiedItemIndicator": "#1f6feb",
-    "welcomePage.buttonBackground": "#131416",
-    "welcomePage.buttonHoverBackground": "#21262d",
 
     "debugToolBar.background": "#131416",
     "editor.stackFrameHighlightBackground": "#c6902625",
