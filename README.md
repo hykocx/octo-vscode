@@ -7,7 +7,7 @@ Thème VSCode épuré disponible en variante claire et sombre.
 | Thème | Style |
 |-------|-------|
 | **Octo Dark** | Très sombre, reposant pour les longues sessions |
-| **Octo Light** | Propre et lisible en pleine lumière, parfait pour développer durant la journée |
+| **Octo Light** | Clair, parfait pour développer durant la journée |
 
 Coloration sémantique activée sur les deux variantes.
 
