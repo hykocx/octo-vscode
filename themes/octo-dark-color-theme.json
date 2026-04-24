@@ -33,13 +33,13 @@
     "textLink.activeForeground": "#79c0ff",
     "textBlockQuote.background": "#09090a",
     "textBlockQuote.border": "#21262d",
-    "textCodeBlock.background": "#161b22",
+    "textCodeBlock.background": "#131416",
     "textPreformat.foreground": "#8b949e",
     "textSeparator.foreground": "#21262d",
 
     "editor.background": "#020202",
     "editor.foreground": "#e6edf3",
-    "editor.lineHighlightBackground": "#161b22",
+    "editor.lineHighlightBackground": "#131416",
     "editor.lineHighlightBorder": "#00000000",
     "editor.selectionBackground": "#3392ff44",
     "editor.inactiveSelectionBackground": "#3392ff22",
@@ -99,16 +99,16 @@
     "editorStickyScroll.background": "#020202",
     "editorStickyScrollHover.background": "#09090a",
 
-    "editorWidget.background": "#161b22",
+    "editorWidget.background": "#131416",
     "editorWidget.border": "#30363d",
     "editorWidget.foreground": "#e6edf3",
-    "editorSuggestWidget.background": "#161b22",
+    "editorSuggestWidget.background": "#131416",
     "editorSuggestWidget.border": "#30363d",
     "editorSuggestWidget.foreground": "#c9d1d9",
     "editorSuggestWidget.highlightForeground": "#58a6ff",
     "editorSuggestWidget.selectedBackground": "#21262d",
     "editorSuggestWidget.selectedForeground": "#e6edf3",
-    "editorHoverWidget.background": "#161b22",
+    "editorHoverWidget.background": "#131416",
     "editorHoverWidget.border": "#30363d",
     "editorHoverWidget.foreground": "#e6edf3",
 
@@ -125,7 +125,7 @@
 
     "menubar.selectionBackground": "#21262d",
     "menubar.selectionForeground": "#e6edf3",
-    "menu.background": "#161b22",
+    "menu.background": "#131416",
     "menu.foreground": "#e6edf3",
     "menu.selectionBackground": "#21262d",
     "menu.selectionForeground": "#e6edf3",
@@ -165,7 +165,7 @@
     "list.deemphasizedForeground": "#484f58",
 
     "tree.indentGuidesStroke": "#21262d",
-    "tree.inactiveIndentGuidesStroke": "#161b22",
+    "tree.inactiveIndentGuidesStroke": "#131416",
 
     "editorGroupHeader.tabsBackground": "#000000",
     "editorGroupHeader.tabsBorder": "#21262d",
@@ -236,12 +236,12 @@
     "button.secondaryHoverBackground": "#30363d",
     "button.border": "#00000000",
 
-    "dropdown.background": "#161b22",
+    "dropdown.background": "#131416",
     "dropdown.border": "#30363d",
     "dropdown.foreground": "#e6edf3",
     "dropdown.listBackground": "#09090a",
 
-    "checkbox.background": "#161b22",
+    "checkbox.background": "#131416",
     "checkbox.border": "#6e7681",
     "checkbox.foreground": "#e6edf3",
     "checkbox.selectBackground": "#21262d",
@@ -257,7 +257,7 @@
     "scrollbarSlider.hoverBackground": "#484f5844",
     "scrollbarSlider.activeBackground": "#484f5888",
 
-    "notifications.background": "#161b22",
+    "notifications.background": "#131416",
     "notifications.foreground": "#e6edf3",
     "notifications.border": "#30363d",
     "notificationCenterHeader.background": "#21262d",
@@ -268,7 +268,7 @@
 
     "pickerGroup.border": "#21262d",
     "pickerGroup.foreground": "#e6edf3",
-    "quickInput.background": "#161b22",
+    "quickInput.background": "#131416",
     "quickInput.foreground": "#e6edf3",
 
     "terminal.background": "#09090a",
@@ -306,7 +306,7 @@
     "breadcrumb.background": "#020202",
     "breadcrumb.focusForeground": "#e6edf3",
     "breadcrumb.activeSelectionForeground": "#adbac7",
-    "breadcrumbPicker.background": "#161b22",
+    "breadcrumbPicker.background": "#131416",
 
     "minimap.background": "#020202",
     "minimap.selectionHighlight": "#3392ff44",
@@ -325,17 +325,17 @@
     "peekViewResult.matchHighlightBackground": "#ffd33d33",
     "peekViewResult.selectionBackground": "#21262d",
     "peekViewResult.selectionForeground": "#e6edf3",
-    "peekViewTitle.background": "#161b22",
+    "peekViewTitle.background": "#131416",
     "peekViewTitleDescription.foreground": "#8b949e",
     "peekViewTitleLabel.foreground": "#e6edf3",
     "peekView.border": "#30363d",
 
     "settings.headerForeground": "#e6edf3",
     "settings.modifiedItemIndicator": "#1f6feb",
-    "welcomePage.buttonBackground": "#161b22",
+    "welcomePage.buttonBackground": "#131416",
     "welcomePage.buttonHoverBackground": "#21262d",
 
-    "debugToolBar.background": "#161b22",
+    "debugToolBar.background": "#131416",
     "editor.stackFrameHighlightBackground": "#c6902625",
     "editor.focusedStackFrameHighlightBackground": "#2b6a3033"
   },
