@@ -2,6 +2,8 @@
 
 Thème VSCode épuré disponible en variante claire et sombre.
 
+![preview](/assets/preview.jpg)
+
 ## Variantes
 
 | Thème | Style |
